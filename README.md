@@ -1,1 +1,1 @@
-# Folder setup and Wirframes
+# Folder setup and Wireframes
